@@ -1,1 +1,1 @@
-This repository is reserved for future Java programs and code samples. Currently, there are no files or projects uploaded, but content will be added soon. Stay tuned for updates as new Java examples and learning resources become available. Suggestions for initial content are welcome in the meantime.
+
