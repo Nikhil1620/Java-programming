@@ -11,18 +11,18 @@ class Demo
     public Demo()
     {
         System.out.println("Inside Default");
-        this.i = 11;
+        this.i = 11;      //First use
     }
 
     public Demo(int a)
     {
-        this();
+        this();            //Second Use
         System.out.println("Inside Parameterised");
     }
 
     public void Display()
     {
-        System.out.println("Inside Display "+this.i);
+        System.out.println("Inside Display "+this.i);   // Third Use
     }
 }
 
